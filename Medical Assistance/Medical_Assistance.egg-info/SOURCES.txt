@@ -1,0 +1,5 @@
+setup.py
+Medical_Assistance.egg-info/PKG-INFO
+Medical_Assistance.egg-info/SOURCES.txt
+Medical_Assistance.egg-info/dependency_links.txt
+Medical_Assistance.egg-info/top_level.txt

@@ -1,0 +1,17 @@
+langchain == 0.2.10
+langchain-openai ==0.1.17
+python-dotenv ==1.0.1
+langchain-groq ==0.1.6
+langchain_community
+bs4 == 0.0.2
+unstructured ==0.15.0
+pypdf
+wikipedia ==1.4.0
+# awadb
+langchain-chroma==0.1.2
+langchain-groq
+langchain_ollama
+# pip install --upgrade --quiet  langchain sentence_transformers 
+langserve
+fastapi
+langchain-core
